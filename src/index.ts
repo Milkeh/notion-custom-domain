@@ -3,7 +3,7 @@ import proxy from 'express-http-proxy';
 
 const START_PAGE =
   process.env.START_PAGE ||
-  'https://www.notion.so/Notion-Official-83715d7703ee4b8699b5e659a4712dd8';
+  'https://www.notion.so/hmckenzie/UK-EUROPE-PLANNER-2021-839ad33f312a42cda421eb24d1d25116';
 const GA_TRACKING_ID = process.env.GA_TRACKING_ID;
 
 const startId = START_PAGE.replace(/^.*-/, '');
