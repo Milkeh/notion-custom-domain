@@ -5,6 +5,6 @@
     { "src": "/[^/.]{1,8}", "status": 302, "headers": { "Location": "/" } },
     { "src": "/[^/.]*", "dest": "src/index.ts" },
     { "src": "/app-[0-f]+\\.js", "dest": "src/index.ts" },
-    { "src": "/(.*)", "dest": "https://www.notion.so/$1" }
+    { "src": "/(.*)", "dest": "https://www.notion.so/hmckenzie/UK-EUROPE-PLANNER-2021-839ad33f312a42cda421eb24d1d25116" }
   ]
 }
